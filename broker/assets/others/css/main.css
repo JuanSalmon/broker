@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kodchasan:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anta&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Protest+Guerrilla&display=swap');
+
+/* font-family */
+.ff-righteous {
+  font-family: "Righteous", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.ff-kanit {
+  font-family: "Kanit", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.ff-kodchasan {
+  font-family: "Kodchasan", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.ff-anta {
+  font-family: "Anta", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.ff-protest-guerrilla {
+  font-family: "Protest Guerrilla", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* font-weight */
+.fw-reguler {
+  font-weight: 400 !important;
+}
+
+.fw-bold {
+  font-weight: 900 !important;
+}
+
+/* margin-top */
+.mt-2px {
+  margin-top: 2px !important;
+}
+
+.mt--5px {
+  margin-top: -5px !important;
+}
+
+/* header */
+.tgmenu__navbar-wrap ul li a {
+    text-transform: capitalize !important;
+}
+
+/* logo */
+.sub-logo {
+    font-family: "Righteous", sans-serif;
+    text-transform: uppercase;
+    margin-top: -.6rem;
+    font-size: 11px;
+    color: #444;
+}
+
+/* heading */
+.section__title .sub-title {
+    font-family: "Kanit", sans-serif;
+    font-size: 20px;
+    margin-bottom: -3px;
+}
+
+.title.title-registration {
+    font-size: 28px;
+}
+
+/* font-size */
+.fs-12px {
+    font-size: 12px !important;
+}
+
+.fs-13px {
+    font-size: 13px !important;
+}
+
+.fs-14px {
+    font-size: 14px !important;
+}
+
+/* line-height */
+.lh-1px {
+    line-height: 1.2 !important;
+}
+
+/* border-radius */
+.brad-20px {
+    border-radius: 20px;
+}
+
+.brad-30px {
+    border-radius: 30px;
+}
+
+.modal-content {
+    border-radius: 30px;
+}
+
+/* footer */
+.footer__top-three {
+    padding: 15px 0 10px;
+}
